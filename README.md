@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/codepath-project-6-AykxLdL.gif' title='Video Demo' width='400px' alt='Video Demo' />
+<img src="https://i.imgur.com/V2CS99D.gif" width="400px" alt="Video Demo" />
 
 GIF created with XRecorder
 
